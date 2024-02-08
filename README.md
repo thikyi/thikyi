@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thikyi
-- 📫 You can reach me at tkyi88.luck@gmail.com
+- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/thantthirimyokyi/)
 
 <!---
 thikyi/thikyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
