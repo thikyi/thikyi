@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thiri
-- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/thantthirimyokyi/)
+- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/thantthirimyokyi/) or tianakyi@gmail.com
 -  Check out my Data Visualisation profile [Tableau Public](https://public.tableau.com/app/profile/thant.thiri.kyi/vizzes)
 
 - I can assist your tech team in working smoothly and staying well-organized to achieve project or organizational goals. 
