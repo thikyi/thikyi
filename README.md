@@ -4,7 +4,7 @@
 
 - I can assist your tech team in working smoothly and staying well-organized to achieve project or organizational goals. 
 - I excel in project management and business systems analysis, and I'm currently sharpening my skills in data science , business intelligence & data visualizations. 
-- I certified in PMP and PMI-ACP, I'm well-versed in traditional, hybrid, and Agile project management methodologies.
+- I am certified in PMP and PMI-ACP, I'm well-versed in traditional, hybrid, and Agile project management methodologies.
 - I fancy to work on Data,AI and ML projects.
 
 <!---
